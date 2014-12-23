@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stdPadding">7dip</dimen>
+    <dimen name="gridVerticalPadding">12dip</dimen>
+    <dimen name="gridHorizontalPadding">20dip</dimen>
+    <dimen name="bannerTextPadding">8dip</dimen>
+    <dimen name="indicatorHeight">40dip</dimen>
+    <dimen name="midPadding">20dip</dimen>
+    <dimen name="spiritWidth">40dip</dimen>
+    <dimen name="spiritHeight">85dip</dimen>
+    <dimen name="largePadding">60dip</dimen>
+</resources>

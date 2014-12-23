@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#fff"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<Button
+        android:id="@+id/btnPhoto"
+        style="@style/GreyStrokeBtn"
+        android:layout_marginLeft="@dimen/stdPadding"
+        android:layout_marginRight="@dimen/stdPadding"
+        android:layout_marginTop="@dimen/midPadding"
+        android:text="@string/launchGallery" />
+
+	<Button
+	    android:id="@+id/btnCapture"
+	    style="@style/GreyStrokeBtn"
+	    android:layout_marginLeft="@dimen/stdPadding"
+	    android:layout_marginRight="@dimen/stdPadding"
+	    android:layout_marginTop="@dimen/midPadding"
+	    android:text="@string/lanuchCapture" />
+	
+	<Button
+        android:id="@+id/btnCanel"
+        style="@style/GreyStrokeBtn"
+        android:layout_marginLeft="@dimen/stdPadding"
+        android:layout_marginRight="@dimen/stdPadding"
+        android:layout_marginTop="@dimen/midPadding"
+        android:layout_marginBottom="@dimen/stdPadding"
+        android:text="@string/cancel" />
+	
+</LinearLayout>
